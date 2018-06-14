@@ -2,7 +2,6 @@
 
 FriendSpace为社交类应用。
 
-http://7u2rl9.com1.z0.glb.clouddn.com/113.png
 
 登录注册模块：
 
